@@ -1,6 +1,10 @@
 #charly
 |built|
 
+Here is the link to Charlies presentation: 
+http://bit.ly/python-devops-bootcamp-2019
+
+
 This package is an example package on how to structure your package.
 This package is an example package on how to structure your package.
 
