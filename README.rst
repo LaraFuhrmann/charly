@@ -1,4 +1,5 @@
-# charly
+#charly
+|built|
 
 This package is an example package on how to structure your package.
 This package is an example package on how to structure your package.
@@ -11,7 +12,6 @@ This package is an example package on how to structure your package.
 
 Installation
 ------------
-|built|
 This package can be installed directly from GitHub with the following command:
 
 .. code-block:: bash
