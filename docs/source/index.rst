@@ -14,6 +14,7 @@ Welcome to Charly's documentation!
    :caption: Contents:
 
    utils
+
 .. name of the doc utils.rst file without .rst
 
 
