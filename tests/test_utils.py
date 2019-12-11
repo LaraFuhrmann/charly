@@ -18,7 +18,7 @@ class TestAdd(unittest.TestCase):
 
     def rest_add_negation(self):
         """Test if the add functions."""
-        a,b = -1, 1
+        a, b = -1, 1
         expected = a+b
         actual = add(a, b)
         self.assertEqual(expected, actual)
