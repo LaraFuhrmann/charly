@@ -1,3 +1,5 @@
-# when you import the package the __init__ is run when importing
+# -*- coding: utf-8 -*-
 
-from .utils import add, hello_world
+"""when you import the package the __init__ is run when importing."""
+
+from .utils import add, hello_world   # noqa:F401
